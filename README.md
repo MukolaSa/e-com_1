@@ -1,1 +1,1 @@
-![Site Image](e-com_1.png)
+![Site Image](e_com1.png)
